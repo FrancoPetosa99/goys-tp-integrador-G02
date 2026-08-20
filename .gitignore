@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editores / IDE
+*.swp
+*~
+.idea/
+.vscode/
+
+# Secretos — NUNCA subir al repositorio
+.env
+*.key
+*.pem
+*.secret
+credentials*
+*credenciales*
+
+# Temporales / backup
+*.tmp
+*.bak
+*.log
+*.rsc.bak
