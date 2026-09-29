@@ -1,3 +1,6 @@
+| <h1>UTN-FRLP</h1>| <img src="./logo.png" alt="Logo del Proyecto" width="100"> |
+|-------------------------|----------------------------------|
+
 # TP4 — Proyecto Integrador + Feria de Redes
 
 > **GOYS** — Gestión Operativa y Seguridad en Redes · UTN FR La Plata
